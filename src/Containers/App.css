@@ -1,0 +1,10 @@
+.container {
+  text-align: center;
+}
+
+nav {
+  padding-left: 10px;
+  color: white;
+  background-color: green;
+  border-bottom: 2px solid gray;
+}
