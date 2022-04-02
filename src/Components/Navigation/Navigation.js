@@ -1,9 +1,12 @@
 import React from 'react';
 
+// get our fontawesome imports
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+
 const Navigation = () => {
   return(
-    <div style={{alignSelf: 'flex-start'}}>
-      <h4>Menu</h4>
+    <div className="fw">
+      <h2><FontAwesomeIcon icon="fa-solid fa-bars" /></h2>
     </div>
   );
 

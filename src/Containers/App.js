@@ -5,7 +5,6 @@ import Navigation from '../Components/Navigation/Navigation';
 import Time from '../Components/Time/Time';
 import SignIn from '../Components/SignIn/SignIn';
 
-
 class App extends  Component {
 
   constructor() {
